@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://madeinspanish.github.io" # the base hostname & protocol for your site
 city: Medellín
 country: Colombia
-phone: (716) 555-5555
+phone: (+57) 3155533098
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"

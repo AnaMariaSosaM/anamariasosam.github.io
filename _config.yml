@@ -10,7 +10,6 @@ country: Colombia
 phone: (+57) 3155533098
 
 # Homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # Social settings

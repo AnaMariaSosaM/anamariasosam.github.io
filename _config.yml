@@ -2,7 +2,7 @@
 title: Made In Spanish
 subtitle: With Love
 email: madeinspanishwithlove@gmail.com
-description:
+description: "Aqui va la description"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://madeinspanish.github.io" # the base hostname & protocol for your site
 city: Medellín

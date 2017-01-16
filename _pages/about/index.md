@@ -3,12 +3,5 @@ title: About
 permalink: /about/
 feature_image: feature-book
 layout: page
-image: about.png
 ---
-Mi nombre es Ana María, soy de la ciudad de la eterna primavera, Medellín.
-
-Actualmente soy estudiante de Ingeniería de Sistemas, en mi tiempo libre o no libre me gusta aprender, principalmente sobre desarrollo web, ya sea back-end o front-end, también me gusta asistir a los meetups de programación en la ciudad.
-
-He tenido la oportunidad de conocer a gente maravillosa que me han enseñado mucho así que veo mi blog como mi granito de manera para que otras personas puedan aprender nuevas herramientas, tecnologías, optimizar su tiempo, etc.
-
-El conocimiento es para compartirlo y más aún cuando otra persona nos lo compartió.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

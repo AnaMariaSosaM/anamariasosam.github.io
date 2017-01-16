@@ -1,12 +1,6 @@
 ---
 title:  		"Usar Livereload en Rails"
-date:   		2015-09-10 11:11:11
-permalink: 		blog/rails-livereload
-type: 			post
-description: 	"¿Cómo hacer para que se sincronicen los cambios sin tener que recargar en mi proyecto de Rails? En 5 pasos te lo sabrás"
-image: 			rails+livereload.png
-read_time : 3
-feature_image: recommend-woods
+permalink: 	blog/rails-livereload
 ---
 
 Si eres de los míos, que estás cansado de refrescar la pantalla cada vez que realizas un cambio te sugiero seguir estos pasos para que utilices livereload en tu proyecto de rails.

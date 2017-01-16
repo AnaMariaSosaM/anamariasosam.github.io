@@ -1,12 +1,6 @@
 ---
 title:  		"La terminal debe ser tu amiga"
-date:   		2015-09-13 1:43:11
 permalink: 		blog/terminal
-type: 			post
-description: 	"Siete comandos de la terminal que deberías saber"
-image: 			commandline.png
-read_time : 7
-feature_image: recommend-woods
 ---
 Antes los computadores no tenían interfaces gráficas con botones, ventanas y menús. Así que las personas manejaban sus computadores digitando los comandos y presionando enter.
 

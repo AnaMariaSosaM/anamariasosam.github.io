@@ -37,11 +37,15 @@ defaults:
       path: "" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
-      author_name: Ana Sosa
       layout: "post"
       comments: true
-      category: "coding"
+      feature_image: recommend-woods
       author_url: "https://anamariasosa.me"
+      author_name: "Ana Sosa"
+      categories: "coding"
+      read_time: 3
+      title: ""
+      permalink: ""
   -
     scope:
       path: "" # an empty string here means all files in the project

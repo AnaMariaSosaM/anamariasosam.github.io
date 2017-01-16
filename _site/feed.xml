@@ -5,28 +5,9 @@
     <description>Aprendí que todo lo que me enseñan lo debo compartir y no hay mejor forma que un blog para hacerlo.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Jan 2017 23:30:43 -0500</pubDate>
-    <lastBuildDate>Sun, 15 Jan 2017 23:30:43 -0500</lastBuildDate>
+    <pubDate>Mon, 16 Jan 2017 12:43:36 -0500</pubDate>
+    <lastBuildDate>Mon, 16 Jan 2017 12:43:36 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
-    
-      <item>
-        <title>Los lenguajes universitarios</title>
-        <description>&lt;p&gt;Soy una simple estudiante universitaria, pero antes de entrar a la universidad tuve la oportunidad de conocer el mundo de la programación, la oportunidad de darme cuenta de todas las puertas que solo yo, con esfuerzo y dedicación me podía abrir. Más allá de las ‘barreras’ de género que existen, tuve muy buenos resultados en mi primer semestre, pero desde el primer día me sentía una estudiante diferente porque mi burbuja ya estaba estallada antes de entrar: ya conocía algunas cosas de JavaScript que me permitieron en el momento que comenzamos a aprender JAVA no asombrarme tanto como mis demás compañeros al crear una simple función Suma, ya que sabía lo sencillo que se puede realizar con JavaScript.&lt;/p&gt;
-
-&lt;p&gt;Iban transcurriendo los meses y los lenguajes universitarios como C# y más JAVA iban apareciendo en nuestros caminos. Mientras tanto, en otras materias de la carrera comenzaron a pedirnos nuestras propios programas. En cierta ocasión todos comenzaron a decidir en cuál lenguaje lo harían, yo me le acerqué al profesor y, un poco angustiada, le pregunté: profe, ¿lo puedo hacer en Ruby? Él me contestó: ¿Rubio? Decepción, eso fue lo que sentí. Cómo puedo juzgar a mis compañeros porque sólo conozcan esos dos lenguajes si son los únicos que pueden aprender en la U, cómo puedo juzgar a la U si su objetivo es lograr que sus programas sean acreditados.&lt;/p&gt;
-
-&lt;p&gt;Actualmente estoy en cuarto semestre, puedo notar que en muchos de mis compañeros, los ojos que brillaban por aprender a programar ya se han opacado y en algunos he escuchado la misma expresión de “qué pereza programar”. Me encantaría que ellos conocieran por lo menos breves introducciones a lenguajes como Ruby,  JavaScript, Go, Swift, Python, entre otros. Que se dieran cuenta que según una &lt;a href=&quot;https://medium.com/colombia-dev/an%C3%A1lisis-encuesta-salarios-desarrolladores-colombiadev-2016-9969a621ec39#.p0rbfjhnh&quot;&gt;encuesta&lt;/a&gt; realizada a principio de año ya existen demasiados programadores en JAVA y C# y no son los mejores pagos, puesto que en la lista se encuentran en los primeros lugares Ruby y JavaScript.&lt;/p&gt;
-
-&lt;p&gt;Mi intención es entonces animar a las comunidades, no sólo de Medellín sino de las demás ciudades a que se atrevan como lo hizo la comunidad de &lt;a href=&quot;http://www.meetup.com/MedellinJS/&quot;&gt;MedellinJS&lt;/a&gt; que comenzó este año su proyecto de visitar las Universidades de la ciudad. Afortunadamente la Universidad de Medellín aceptó unirse a esta iniciativa y este &lt;strong&gt;&lt;em&gt;miércoles 30 de marzo a las 2:00pm&lt;/em&gt;&lt;/strong&gt; tendremos la cita, ellos tendrán en sus manos las mentes de los estudiantes y su objetivo será mostrarles que el mundo no sólo necesita programadores en .NET o JAVA.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 27 Mar 2016 20:49:55 -0500</pubDate>
-        <link>http://localhost:4000/blog/la-universidad</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/la-universidad</guid>
-        
-        
-        <category>css</category>
-        
-      </item>
     
       <item>
         <title>GitHub == Red Social</title>
@@ -74,64 +55,9 @@ Sigue los pasos que te dieron, son similares a los que anteriormente te expliqu�
 
 &lt;p&gt;Puedes ver con más profundidad cómo usar los comandos de git en este &lt;a href=&quot;https://try.github.io/levels/1/challenges/1&quot;&gt;tutorial&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 24 Nov 2015 20:49:55 -0500</pubDate>
+        <pubDate>Wed, 25 Nov 2015 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/blog/github</link>
         <guid isPermaLink="true">http://localhost:4000/blog/github</guid>
-        
-        
-        <category>coding</category>
-        
-      </item>
-    
-      <item>
-        <title>Cuando me cansé de refrescar el navegador</title>
-        <description>&lt;p&gt;Realizar un cambio, por mínimo que sea implica refrescar el navegador para poder verlo reflejado. En realidad no es mucho tiempo, pero si ya hay herramientas que nos permiten automatizar las tareas, ¿por qué no usarlas? .&lt;/p&gt;
-
-&lt;p&gt;Estas herramientas nos permiten entre otras cosas:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Convertir archivos jade a html&lt;/li&gt;
-  &lt;li&gt;Usar preprocesadores(sass, less, etc)&lt;/li&gt;
-  &lt;li&gt;Minificar el css&lt;/li&gt;
-  &lt;li&gt;Concatenar los archivos js&lt;/li&gt;
-  &lt;li&gt;Crear una imagen con todas tus imágenes (Sprite)&lt;/li&gt;
-  &lt;li&gt;Encontrar los estilos duplicados o no usados.&lt;/li&gt;
-  &lt;li&gt;Usar babeljs&lt;/li&gt;
-  &lt;li&gt;Refrescar el navegador cuando un cambio se haya guardado&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Existen muchas, pero si repites muchas veces una tarea y no existe aún la receta para automatizarla, ¡anímate a crearla! quizá sea útil para alguien más.&lt;/p&gt;
-
-&lt;p&gt;La idea de mi blog no es generar más contenido que ya existe en otras blogs, pero si compartir de una forma corta las cosas que aprendo o me enseñan. Les comparto mi proyecto ‘receta’, en el que tengo algunas tareas como la de jade, sass, concatenación, minificación y auto refrescar la pantalla  automatizadas.&lt;/p&gt;
-
-&lt;p&gt;El task runner que yo uso es Gulp, para usar mi receta necesitas:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Tener &lt;a href=&quot;https://nodejs.org/en/download/&quot;&gt;node&lt;/a&gt; instalado&lt;/li&gt;
-  &lt;li&gt;Instalar Gulp &lt;code class=&quot;highlighter-rouge&quot;&gt;npm install -g gulp&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Instalar &lt;a href=&quot;https://git-scm.com/book/en/v2/Getting-Started-Installing-Git&quot;&gt;Git&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Instalar Bower &lt;code class=&quot;highlighter-rouge&quot;&gt;npm install -g bower&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;Instalar &lt;a href=&quot;https://www.ruby-lang.org/en/documentation/installation/&quot;&gt;Ruby&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Instalar &lt;a href=&quot;http://sass-lang.com/install&quot;&gt;SASS&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Luego de que tengas esto instalado puedes clonar mi &lt;a href=&quot;https://github.com/anamariasosa/template&quot;&gt;repositorio&lt;/a&gt; o descargar el &lt;a href=&quot;https://github.com//anamariasosa/template/archive/master.zip&quot;&gt;zip&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git clone git@github.com:anamariasosa/template.git&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Luego que lo tengas, desde la terminal ingresa a la carpeta donde descargaste o clonaste la repo y luego corre:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cd template &amp;amp;&amp;amp; bower install &amp;amp;&amp;amp; npm install&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;y ¡listo!&lt;/p&gt;
-
-&lt;p&gt;Si te perdiste o si necesitas ayuda instalando algo, me puedes contar por &lt;a href=&quot;https://twitter.com/anamariasosam&quot;&gt;twitter&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;¿No tienes la menor idea de cómo usar git? Puedes leer un poco &lt;a href=&quot;http://anamariasosa.com/blog/github/&quot;&gt;aqui&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 24 Nov 2015 13:49:55 -0500</pubDate>
-        <link>http://localhost:4000/blog/example-template</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/example-template</guid>
         
         
         <category>coding</category>
@@ -161,42 +87,9 @@ Sigue los pasos que te dieron, son similares a los que anteriormente te expliqu�
   &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/Women-Who-Code-Medellin/&quot;&gt;Women Who Code&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 27 Oct 2015 01:49:55 -0500</pubDate>
+        <pubDate>Tue, 27 Oct 2015 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/blog/meetup</link>
         <guid isPermaLink="true">http://localhost:4000/blog/meetup</guid>
-        
-        
-        <category>coding</category>
-        
-      </item>
-    
-      <item>
-        <title>Una terminal personalizada</title>
-        <description>&lt;p&gt;Al principio la terminal me parecía muy aburrida y más con sus colores blanco y negro, pero luego me di cuenta que se podía personalizar, así que la puse como más me gustaba y ahora no hay día que no la use.&lt;/p&gt;
-
-&lt;p&gt;Antes de mostrarles los pasos para hacerlo debo darle créditos a &lt;a href=&quot;https://github.com/paulirish/dotfiles/&quot;&gt;Paul Irish&lt;/a&gt; ya que tomé como base el bash_profile y bash_prompt que el uso para hacer el mío.&lt;/p&gt;
-
-&lt;p&gt;Pasos:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;En el root crea un archivo que se llame .bash_profile &lt;code class=&quot;highlighter-rouge&quot;&gt;touch .bash_profile&lt;/code&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Copia el mío y lo guardas&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;noscript&gt;&lt;pre&gt;400: Invalid request
-&lt;/pre&gt;&lt;/noscript&gt;
-&lt;script src=&quot;https://gist.github.com/6bbd96b0c3f2e62ba12b.js&quot;&gt; &lt;/script&gt;
-
-&lt;p&gt;En la terminal escribe &lt;code class=&quot;highlighter-rouge&quot;&gt;source .bash_profile&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Reinicia la terminal y verás la magia, si no te gustan los colores se los puedes cambiar en la línea 81 y 96 y si tampoco te gustan los emojis los puedes borrar o cambiar.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 13 Sep 2015 20:43:11 -0500</pubDate>
-        <link>http://localhost:4000/blog/personalizar-la-terminal</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/personalizar-la-terminal</guid>
         
         
         <category>coding</category>
@@ -251,7 +144,7 @@ Sigue los pasos que te dieron, son similares a los que anteriormente te expliqu�
     &lt;/tr&gt;
 &lt;/table&gt;
 </description>
-        <pubDate>Sat, 12 Sep 2015 20:43:11 -0500</pubDate>
+        <pubDate>Sun, 13 Sep 2015 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/blog/terminal</link>
         <guid isPermaLink="true">http://localhost:4000/blog/terminal</guid>
         
@@ -284,74 +177,9 @@ Sigue los pasos que te dieron, son similares a los que anteriormente te expliqu�
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/livereload.gif&quot; alt=&quot;livereload rails guard anamariasosa&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 10 Sep 2015 06:11:11 -0500</pubDate>
+        <pubDate>Thu, 10 Sep 2015 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/blog/rails-livereload</link>
         <guid isPermaLink="true">http://localhost:4000/blog/rails-livereload</guid>
-        
-        
-        <category>coding</category>
-        
-      </item>
-    
-      <item>
-        <title>Modelo Vista Controlador</title>
-        <description>&lt;p&gt;Esta arquitectura nos permite mantener nuestro proyecto más organizado separando la lógica de la parte visual, permitiéndonos aplicar la filosofía DRY(Don´t repeat yourself) ya que si por ejemplo tenemos que realizar un sitio para escritorio y para móvil sólo debemos generar otra vista, sin necesidad de modificar el controlador o el modelo.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 09 Sep 2015 07:49:55 -0500</pubDate>
-        <link>http://localhost:4000/blog/mvc-rails</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/mvc-rails</guid>
-        
-        
-        <category>coding</category>
-        
-      </item>
-    
-      <item>
-        <title>SVG: Scalable Vector Graphics</title>
-        <description>&lt;p&gt;Cuando queremos colocar algún gráfico en la web, en la mayoría de ocasiones optamos por JPG o alguna vez por un PNG o GIF, en caso de necesitar transparencia o animación. Si queremos de hablar de optimización y una mejor experiencia existen el formato SVG, que nos permitirá hacer íconos responsive, imágenes interactivas y lo más importante es que pesa poco.&lt;/p&gt;
-
-&lt;p&gt;Un SVG es una serie de puntos interconectados denominados vectores. Estos puntos y líneas forman figuras que se proyectan de forma automática en la cuadrícula de píxeles de una pantalla de ordenador.&lt;/p&gt;
-
-&lt;p&gt;Los archivos svg no están compuestos de pixeles, como los archivos jpeg o png, sino de vectores, un vector es sólo un punto de dos dimensiones con coordenadas (x,y), creado con etiquetas xml que se convierten en formas y gráficos&lt;/p&gt;
-
-&lt;p&gt;Si se trata de una imagen que es más gráfica, como un logotipo, una tira cómica, un mapa del mundo, un gráfico circular o cualquier otra cosa que no necesita una información muy detallada de color como una foto, entonces, un SVG es probablemente el camino a seguir ya que las imágenes se representan con un mayor detalle y claridad.&lt;/p&gt;
-
-&lt;p&gt;Con Adobe illustrator se pueden crear los svg, pero si no quieres descargarlo existe &lt;a href=&quot;http://mondrian.io/&quot;&gt;Mondrian&lt;/a&gt; aunque es muy básico te puede servir si quieres empezar a crear tus svg, para añadirlos a nuestra página hay dos maneras: insertando el código directamente en el html y añadiendo el archivo como se hace normal con un png o un jpeg.&lt;/p&gt;
-
-&lt;p&gt;Existe una herramienta en GitHub llamada &lt;a href=&quot;https://github.com/svg/svgo-gui&quot;&gt;SVGO&lt;/a&gt;(SVG Optimizer), que nos permitirá optimizar nuestro svg removiendo algunas etiquetas que en realidad no se necesitan.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 12 Aug 2015 11:49:55 -0500</pubDate>
-        <link>http://localhost:4000/blog/svg</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/svg</guid>
-        
-        
-        <category>coding</category>
-        
-      </item>
-    
-      <item>
-        <title>Instalar Seti UI</title>
-        <description>&lt;p&gt;Seti UI es un tema que nos permitirá tener un aspecto diferente de nuestro editor Sublime Text 3(debe ser el 3), aunque existen dos formas es muy bueno aprender a manejar Package Control, porque es desde ahí donde podemos instalar muchos snippets y plugins.&lt;/p&gt;
-
-&lt;p&gt;Pasos:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;cmd(⌘) + shift(⇧) + p : Para acceder al Package Control&lt;/li&gt;
-  &lt;li&gt;Empezar a escribir “Install Package”, dar enter&lt;/li&gt;
-  &lt;li&gt;Escribir Seti_UI, dar enter&lt;/li&gt;
-  &lt;li&gt;Pegar lo siguiente en las preferencias de usuario(Preferences – Settings User):&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;“theme”: “Seti.sublime-theme”,&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt; “color_scheme”: “Packages/Seti_UI/Scheme/Seti.tmTheme”,&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Y listo, mira un video paso a paso &lt;a href=&quot;https://www.youtube.com/watch?v=XhmD6_9wq6U&quot;&gt;aquí&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 11 Aug 2015 11:49:55 -0500</pubDate>
-        <link>http://localhost:4000/blog/sublime-seti-ui</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/sublime-seti-ui</guid>
         
         
         <category>coding</category>

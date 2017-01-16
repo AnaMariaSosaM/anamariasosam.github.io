@@ -1,14 +1,362 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-01-14T12:06:00-05:00</updated><id>http://localhost:4000//</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2017/01/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-01-14T11:54:14-05:00</published><updated>2017-01-14T11:54:14-05:00</updated><id>http://localhost:4000/jekyll/update/2017/01/14/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/01/14/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ana María Sosa | Web Citizen</title>
+    <description>Aprendí que todo lo que me enseñan lo debo compartir y no hay mejor forma que un blog para hacerlo.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 15 Jan 2017 23:30:43 -0500</pubDate>
+    <lastBuildDate>Sun, 15 Jan 2017 23:30:43 -0500</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Los lenguajes universitarios</title>
+        <description>&lt;p&gt;Soy una simple estudiante universitaria, pero antes de entrar a la universidad tuve la oportunidad de conocer el mundo de la programación, la oportunidad de darme cuenta de todas las puertas que solo yo, con esfuerzo y dedicación me podía abrir. Más allá de las ‘barreras’ de género que existen, tuve muy buenos resultados en mi primer semestre, pero desde el primer día me sentía una estudiante diferente porque mi burbuja ya estaba estallada antes de entrar: ya conocía algunas cosas de JavaScript que me permitieron en el momento que comenzamos a aprender JAVA no asombrarme tanto como mis demás compañeros al crear una simple función Suma, ya que sabía lo sencillo que se puede realizar con JavaScript.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;Iban transcurriendo los meses y los lenguajes universitarios como C# y más JAVA iban apareciendo en nuestros caminos. Mientras tanto, en otras materias de la carrera comenzaron a pedirnos nuestras propios programas. En cierta ocasión todos comenzaron a decidir en cuál lenguaje lo harían, yo me le acerqué al profesor y, un poco angustiada, le pregunté: profe, ¿lo puedo hacer en Ruby? Él me contestó: ¿Rubio? Decepción, eso fue lo que sentí. Cómo puedo juzgar a mis compañeros porque sólo conozcan esos dos lenguajes si son los únicos que pueden aprender en la U, cómo puedo juzgar a la U si su objetivo es lograr que sus programas sean acreditados.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Actualmente estoy en cuarto semestre, puedo notar que en muchos de mis compañeros, los ojos que brillaban por aprender a programar ya se han opacado y en algunos he escuchado la misma expresión de “qué pereza programar”. Me encantaría que ellos conocieran por lo menos breves introducciones a lenguajes como Ruby,  JavaScript, Go, Swift, Python, entre otros. Que se dieran cuenta que según una &lt;a href=&quot;https://medium.com/colombia-dev/an%C3%A1lisis-encuesta-salarios-desarrolladores-colombiadev-2016-9969a621ec39#.p0rbfjhnh&quot;&gt;encuesta&lt;/a&gt; realizada a principio de año ya existen demasiados programadores en JAVA y C# y no son los mejores pagos, puesto que en la lista se encuentran en los primeros lugares Ruby y JavaScript.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Mi intención es entonces animar a las comunidades, no sólo de Medellín sino de las demás ciudades a que se atrevan como lo hizo la comunidad de &lt;a href=&quot;http://www.meetup.com/MedellinJS/&quot;&gt;MedellinJS&lt;/a&gt; que comenzó este año su proyecto de visitar las Universidades de la ciudad. Afortunadamente la Universidad de Medellín aceptó unirse a esta iniciativa y este &lt;strong&gt;&lt;em&gt;miércoles 30 de marzo a las 2:00pm&lt;/em&gt;&lt;/strong&gt; tendremos la cita, ellos tendrán en sus manos las mentes de los estudiantes y su objetivo será mostrarles que el mundo no sólo necesita programadores en .NET o JAVA.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 27 Mar 2016 20:49:55 -0500</pubDate>
+        <link>http://localhost:4000/blog/la-universidad</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/la-universidad</guid>
+        
+        
+        <category>css</category>
+        
+      </item>
+    
+      <item>
+        <title>GitHub == Red Social</title>
+        <description>&lt;p&gt;Git permite que grupos de personas puedan trabajar en el mismo proyecto al mismo tiempo, es un sistema de control de versiones, si aprendes a usar git podrás realizar un trabajo colaborativo más eficaz porque podrás ver los cambios que las otras personas hicieron, las fechas y si alguien dañó el proyecto no tendrás que preocuparte porque te podrás devolver en las versiones de este.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Primero debes tener instalado git, aunque OS X ya lo tiene es mejor tener la última &lt;a href=&quot;https://git-scm.com/book/es/v1/Empezando-Instalando-Git&quot;&gt;versión&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Los comandos de git se corren en la terminal, algunos comandos esenciales de git son:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;git init&lt;/strong&gt; : Para inicializar nuestro repositorio&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;git status&lt;/strong&gt; : Para ver el estado actual de nuestro proyecto&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;git add «filename»&lt;/strong&gt; : Añadir nuestro archivo a el área de staging también puedes usar &lt;strong&gt;git add .&lt;/strong&gt; Añadir todos los archivos que han sido modificados en la repo&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;git commit -m “escribe aquí que cambios hiciste”&lt;/strong&gt; : Guardar los cambios que hicimos&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;git log&lt;/strong&gt; : Nos dice cuales fueron los últimos commits que hicimos&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;git push origin master&lt;/strong&gt; : Mandar los cambios locales a nuestro repositorio&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;git pull origin master&lt;/strong&gt; : Guardar en tu proyecto local los cambios que alguien de tu equipo le hizo al proyecto&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;git diff HEAD&lt;/strong&gt; : Saber las diferencias entre nuestro último commit y los cambios nuevos, el HEAD hace referencia a los cambios más recientes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;git reset «filename»&lt;/strong&gt; : Eliminar un archivo del area de staging&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;git branch «nombre_del_branch»&lt;/strong&gt; : Crear un branch, que nos crea una copia del codigo que tenemos en el master(branch principal)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;git checkout «nombre_del_branch»&lt;/strong&gt; : Cambiar de branch&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;git rm «filename»&lt;/strong&gt; : Eliminar un archivo de la repo&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;git merge «nombre_del_branch»&lt;/strong&gt; : Mezclar el branch creado con el master&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;git branch -d «nombre_del_branch»&lt;/strong&gt; : Eliminar un branch&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;git clone «SSH»&lt;/strong&gt; : Clonar un repositorio, cuando lo ves en una cuenta de github sólo debes copiar el SSH que te muestra en la parte superior&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;no-tienes-una-cuenta-de-github&quot;&gt;¿No tienes una cuenta de GitHub?&lt;/h4&gt;
+
+&lt;p&gt;Github es la red social de los programadores así que anímate a crear una cuenta, que esta podrá ser incluso hasta tu hoja de vida. Ingresa a &lt;a href=&quot;https://github.com/join&quot;&gt;github&lt;/a&gt; para crearla&lt;/p&gt;
+
+&lt;h4 id=&quot;no-sabes-cómo-crear-un-repositorio&quot;&gt;¿No sabes cómo crear un repositorio?&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Entra a tu cuenta de github&lt;/li&gt;
+  &lt;li&gt;Encontrarás en la parte superior derecha un “+”&lt;/li&gt;
+  &lt;li&gt;Elige crear un repositorio&lt;/li&gt;
+  &lt;li&gt;Escribe el nombre de cómo quieres llamar la repo&lt;/li&gt;
+  &lt;li&gt;Una breve descripción y clic enel botón verde&lt;/li&gt;
+  &lt;li&gt;Sigue los pasos y listo!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Sigue los pasos que te dieron, son similares a los que anteriormente te expliqué con la diferencia que &lt;code class=&quot;highlighter-rouge&quot;&gt;git remote add origin&lt;/code&gt; es para añadirlo al repositorio de github y el último comando tiene una &lt;code class=&quot;highlighter-rouge&quot;&gt;-u&lt;/code&gt; la cual sólo se escribe la primera vez que creas el repositorio.&lt;/p&gt;
+
+&lt;p&gt;Puedes ver con más profundidad cómo usar los comandos de git en este &lt;a href=&quot;https://try.github.io/levels/1/challenges/1&quot;&gt;tutorial&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Nov 2015 20:49:55 -0500</pubDate>
+        <link>http://localhost:4000/blog/github</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/github</guid>
+        
+        
+        <category>coding</category>
+        
+      </item>
+    
+      <item>
+        <title>Cuando me cansé de refrescar el navegador</title>
+        <description>&lt;p&gt;Realizar un cambio, por mínimo que sea implica refrescar el navegador para poder verlo reflejado. En realidad no es mucho tiempo, pero si ya hay herramientas que nos permiten automatizar las tareas, ¿por qué no usarlas? .&lt;/p&gt;
+
+&lt;p&gt;Estas herramientas nos permiten entre otras cosas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Convertir archivos jade a html&lt;/li&gt;
+  &lt;li&gt;Usar preprocesadores(sass, less, etc)&lt;/li&gt;
+  &lt;li&gt;Minificar el css&lt;/li&gt;
+  &lt;li&gt;Concatenar los archivos js&lt;/li&gt;
+  &lt;li&gt;Crear una imagen con todas tus imágenes (Sprite)&lt;/li&gt;
+  &lt;li&gt;Encontrar los estilos duplicados o no usados.&lt;/li&gt;
+  &lt;li&gt;Usar babeljs&lt;/li&gt;
+  &lt;li&gt;Refrescar el navegador cuando un cambio se haya guardado&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Existen muchas, pero si repites muchas veces una tarea y no existe aún la receta para automatizarla, ¡anímate a crearla! quizá sea útil para alguien más.&lt;/p&gt;
+
+&lt;p&gt;La idea de mi blog no es generar más contenido que ya existe en otras blogs, pero si compartir de una forma corta las cosas que aprendo o me enseñan. Les comparto mi proyecto ‘receta’, en el que tengo algunas tareas como la de jade, sass, concatenación, minificación y auto refrescar la pantalla  automatizadas.&lt;/p&gt;
+
+&lt;p&gt;El task runner que yo uso es Gulp, para usar mi receta necesitas:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Tener &lt;a href=&quot;https://nodejs.org/en/download/&quot;&gt;node&lt;/a&gt; instalado&lt;/li&gt;
+  &lt;li&gt;Instalar Gulp &lt;code class=&quot;highlighter-rouge&quot;&gt;npm install -g gulp&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Instalar &lt;a href=&quot;https://git-scm.com/book/en/v2/Getting-Started-Installing-Git&quot;&gt;Git&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Instalar Bower &lt;code class=&quot;highlighter-rouge&quot;&gt;npm install -g bower&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Instalar &lt;a href=&quot;https://www.ruby-lang.org/en/documentation/installation/&quot;&gt;Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Instalar &lt;a href=&quot;http://sass-lang.com/install&quot;&gt;SASS&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Luego de que tengas esto instalado puedes clonar mi &lt;a href=&quot;https://github.com/anamariasosa/template&quot;&gt;repositorio&lt;/a&gt; o descargar el &lt;a href=&quot;https://github.com//anamariasosa/template/archive/master.zip&quot;&gt;zip&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git clone git@github.com:anamariasosa/template.git&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Luego que lo tengas, desde la terminal ingresa a la carpeta donde descargaste o clonaste la repo y luego corre:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cd template &amp;amp;&amp;amp; bower install &amp;amp;&amp;amp; npm install&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;y ¡listo!&lt;/p&gt;
+
+&lt;p&gt;Si te perdiste o si necesitas ayuda instalando algo, me puedes contar por &lt;a href=&quot;https://twitter.com/anamariasosam&quot;&gt;twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;¿No tienes la menor idea de cómo usar git? Puedes leer un poco &lt;a href=&quot;http://anamariasosa.com/blog/github/&quot;&gt;aqui&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Nov 2015 13:49:55 -0500</pubDate>
+        <link>http://localhost:4000/blog/example-template</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/example-template</guid>
+        
+        
+        <category>coding</category>
+        
+      </item>
+    
+      <item>
+        <title>Razones por las que deberías ir a un Meetup de programación</title>
+        <description>&lt;p&gt;Este post lo hago para todos mis compañeros de la Universidad, con el fin de que se den cuenta que la ciudad tiene muchas comunidades de programación y también que Java y C# no son los únicos lenguajes.&lt;/p&gt;
+
+&lt;p&gt;En los meetups personalmente he conocido personas maravillosas, que cada día me hacen amar más la web. No sólo existen meetups de programación, pero si quieres ser un programador debes conocer qué es lo útlimo que está pasando en el medio y no hay mejor manera que saberlo de los mejores.&lt;/p&gt;
+
+&lt;p&gt;No sólo aprendes, sino que compartes con nuevas personas que con el tiempo se convertiran en tu comunidad, además tendrás inspiración para aplicar a tus ideas y también te darás cuenta que lo que nos enseñan en la universidad no siempre es lo último ni lo único.&lt;/p&gt;
+
+&lt;h2 id=&quot;dónde-buscarlos&quot;&gt;¿Dónde buscarlos?&lt;/h2&gt;
+&lt;p&gt;En &lt;a href=&quot;http://www.meetup.com/find/events/?allMeetups=true&amp;amp;radius=100&amp;amp;userFreeform=Medell%C3%ADn%2C+Colombia&amp;amp;mcId=c1006697&amp;amp;change=yes&amp;amp;eventFilter=mysugg&quot;&gt;meetup.com&lt;/a&gt;, puedes buscar por el lenguaje o ver el calendario.&lt;/p&gt;
+
+&lt;h2 id=&quot;algunos-meetups-en-medellín&quot;&gt;Algunos Meetups en Medellín&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/MedellinJS/events/226346745/&quot;&gt;MedellinJS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/medellin-rb/?a=pcmg1&quot;&gt;Medellín.rb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/Medellin-PHP/&quot;&gt;Medellín PHP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/Medellin-iOS/&quot;&gt;Medellín iOS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/MongoDB-Medellin/&quot;&gt;MongoDB Medellín&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/MedellinUX/&quot;&gt;Medellín UX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/Golang-Medellin/&quot;&gt;Golang Medellín&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.meetup.com/Women-Who-Code-Medellin/&quot;&gt;Women Who Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 27 Oct 2015 01:49:55 -0500</pubDate>
+        <link>http://localhost:4000/blog/meetup</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/meetup</guid>
+        
+        
+        <category>coding</category>
+        
+      </item>
+    
+      <item>
+        <title>Una terminal personalizada</title>
+        <description>&lt;p&gt;Al principio la terminal me parecía muy aburrida y más con sus colores blanco y negro, pero luego me di cuenta que se podía personalizar, así que la puse como más me gustaba y ahora no hay día que no la use.&lt;/p&gt;
+
+&lt;p&gt;Antes de mostrarles los pasos para hacerlo debo darle créditos a &lt;a href=&quot;https://github.com/paulirish/dotfiles/&quot;&gt;Paul Irish&lt;/a&gt; ya que tomé como base el bash_profile y bash_prompt que el uso para hacer el mío.&lt;/p&gt;
+
+&lt;p&gt;Pasos:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;En el root crea un archivo que se llame .bash_profile &lt;code class=&quot;highlighter-rouge&quot;&gt;touch .bash_profile&lt;/code&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Copia el mío y lo guardas&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;noscript&gt;&lt;pre&gt;400: Invalid request
+&lt;/pre&gt;&lt;/noscript&gt;
+&lt;script src=&quot;https://gist.github.com/6bbd96b0c3f2e62ba12b.js&quot;&gt; &lt;/script&gt;
+
+&lt;p&gt;En la terminal escribe &lt;code class=&quot;highlighter-rouge&quot;&gt;source .bash_profile&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Reinicia la terminal y verás la magia, si no te gustan los colores se los puedes cambiar en la línea 81 y 96 y si tampoco te gustan los emojis los puedes borrar o cambiar.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 13 Sep 2015 20:43:11 -0500</pubDate>
+        <link>http://localhost:4000/blog/personalizar-la-terminal</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/personalizar-la-terminal</guid>
+        
+        
+        <category>coding</category>
+        
+      </item>
+    
+      <item>
+        <title>La terminal debe ser tu amiga</title>
+        <description>&lt;p&gt;Antes los computadores no tenían interfaces gráficas con botones, ventanas y menús. Así que las personas manejaban sus computadores digitando los comandos y presionando enter.&lt;/p&gt;
+
+&lt;p&gt;Pero la terminal no es cosa del pasado, hoy en día es muy útil para ahorrarnos tiempo, para instalar programas, frameworks de desarrollo. Si además quieres ser un buen desarrollador debes aprender a usar la terminal, hacerte amigo de ella.&lt;/p&gt;
+
+&lt;p&gt;Yo te contaré algunos comandos que por lo menos deberías saber pero si estás interesado en aprender más en Codecademy hay un &lt;a href=&quot;https://www.codecademy.com/en/courses/learn-the-command-line&quot;&gt;curso&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Si estás usando Windows, tu terminal se llama Command Prompt, en Mac se llama Terminal, yo tengo un Mac y personalmente me gusta usar &lt;a href=&quot;https://www.iterm2.com/downloads.html&quot;&gt;iTerm2&lt;/a&gt;. No pienses que la terminal es aburrida, si la aprendes a manejar bien te darás cuenta que es de gran ayuda.&lt;/p&gt;
+
+&lt;p&gt;Entra a tu terminal, si tienes un mac escribe &lt;code class=&quot;highlighter-rouge&quot;&gt;say Aprendiendo a usar la terminal&lt;/code&gt; y si es un windows escribre &lt;code class=&quot;highlighter-rouge&quot;&gt;echo Aprendiendo a usar la terminal&lt;/code&gt;(también lo puedes hacer en mac)&lt;/p&gt;
+
+&lt;p&gt;Comandos que deberías saber:&lt;/p&gt;
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;th&gt;Comando&lt;/th&gt;
+		&lt;th&gt;¿Qué hace?&lt;/th&gt;
+	&lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;pwd&lt;/td&gt;
+        &lt;td&gt;saber en que directorio(carpeta) estás&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;ls&lt;/td&gt;
+        &lt;td&gt;muestra una lista de los contenidos que hay en ese directorio  &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;mkdir Sites&lt;/td&gt;
+        &lt;td&gt;te crea un directorio de nombre en este caso “Sites” &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;cd Sites&lt;/td&gt;
+        &lt;td&gt;nos lleva a la carpeta Sites siempre y cuando esté en la lista de contenidos&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;touch index.html&lt;/td&gt;
+        &lt;td&gt;te crea un archivo en este caso un html llamado index&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;!!&lt;/td&gt;
+        &lt;td&gt;nos corre el comando anterior&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;clear&lt;/td&gt;
+        &lt;td&gt;limpiar la consola&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Sat, 12 Sep 2015 20:43:11 -0500</pubDate>
+        <link>http://localhost:4000/blog/terminal</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/terminal</guid>
+        
+        
+        <category>coding</category>
+        
+      </item>
+    
+      <item>
+        <title>Usar Livereload en Rails</title>
+        <description>&lt;p&gt;Si eres de los míos, que estás cansado de refrescar la pantalla cada vez que realizas un cambio te sugiero seguir estos pasos para que utilices livereload en tu proyecto de rails.&lt;/p&gt;
+
+&lt;p&gt;Pasos:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Instalar &lt;a href=&quot;https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en&quot;&gt;Livereload&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;En el Gemfile en el bloque de desarrollo pega esto &lt;code class=&quot;highlighter-rouge&quot;&gt;gem 'guard-livereload', require: false&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Escribe `guard init livereload el cual te va a crear un Guardfile
+    &lt;ol&gt;
+      &lt;li&gt;Si quieres que te recargue tus estilos en sass añadelo esto al guardfile en el bloque de livereload al final &lt;code class=&quot;highlighter-rouge&quot;&gt;watch(%r{(app|vendor)(/assets/\w+/(.+\.(scss|css))).*}) { |m| &quot;/assets/#{m[3]}&quot; }&lt;/code&gt; debe quedarte así&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Reinicia el servidor de rails y en otra pestaña escribe &lt;code class=&quot;highlighter-rouge&quot;&gt;guard&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Activa livereload haciendo clic sobre el icono y ¡listo!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;¡¡Si tienes alguna pregunta puedes decirme!!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/livereload.gif&quot; alt=&quot;livereload rails guard anamariasosa&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 10 Sep 2015 06:11:11 -0500</pubDate>
+        <link>http://localhost:4000/blog/rails-livereload</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/rails-livereload</guid>
+        
+        
+        <category>coding</category>
+        
+      </item>
+    
+      <item>
+        <title>Modelo Vista Controlador</title>
+        <description>&lt;p&gt;Esta arquitectura nos permite mantener nuestro proyecto más organizado separando la lógica de la parte visual, permitiéndonos aplicar la filosofía DRY(Don´t repeat yourself) ya que si por ejemplo tenemos que realizar un sitio para escritorio y para móvil sólo debemos generar otra vista, sin necesidad de modificar el controlador o el modelo.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Sep 2015 07:49:55 -0500</pubDate>
+        <link>http://localhost:4000/blog/mvc-rails</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/mvc-rails</guid>
+        
+        
+        <category>coding</category>
+        
+      </item>
+    
+      <item>
+        <title>SVG: Scalable Vector Graphics</title>
+        <description>&lt;p&gt;Cuando queremos colocar algún gráfico en la web, en la mayoría de ocasiones optamos por JPG o alguna vez por un PNG o GIF, en caso de necesitar transparencia o animación. Si queremos de hablar de optimización y una mejor experiencia existen el formato SVG, que nos permitirá hacer íconos responsive, imágenes interactivas y lo más importante es que pesa poco.&lt;/p&gt;
+
+&lt;p&gt;Un SVG es una serie de puntos interconectados denominados vectores. Estos puntos y líneas forman figuras que se proyectan de forma automática en la cuadrícula de píxeles de una pantalla de ordenador.&lt;/p&gt;
+
+&lt;p&gt;Los archivos svg no están compuestos de pixeles, como los archivos jpeg o png, sino de vectores, un vector es sólo un punto de dos dimensiones con coordenadas (x,y), creado con etiquetas xml que se convierten en formas y gráficos&lt;/p&gt;
+
+&lt;p&gt;Si se trata de una imagen que es más gráfica, como un logotipo, una tira cómica, un mapa del mundo, un gráfico circular o cualquier otra cosa que no necesita una información muy detallada de color como una foto, entonces, un SVG es probablemente el camino a seguir ya que las imágenes se representan con un mayor detalle y claridad.&lt;/p&gt;
+
+&lt;p&gt;Con Adobe illustrator se pueden crear los svg, pero si no quieres descargarlo existe &lt;a href=&quot;http://mondrian.io/&quot;&gt;Mondrian&lt;/a&gt; aunque es muy básico te puede servir si quieres empezar a crear tus svg, para añadirlos a nuestra página hay dos maneras: insertando el código directamente en el html y añadiendo el archivo como se hace normal con un png o un jpeg.&lt;/p&gt;
+
+&lt;p&gt;Existe una herramienta en GitHub llamada &lt;a href=&quot;https://github.com/svg/svgo-gui&quot;&gt;SVGO&lt;/a&gt;(SVG Optimizer), que nos permitirá optimizar nuestro svg removiendo algunas etiquetas que en realidad no se necesitan.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 12 Aug 2015 11:49:55 -0500</pubDate>
+        <link>http://localhost:4000/blog/svg</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/svg</guid>
+        
+        
+        <category>coding</category>
+        
+      </item>
+    
+      <item>
+        <title>Instalar Seti UI</title>
+        <description>&lt;p&gt;Seti UI es un tema que nos permitirá tener un aspecto diferente de nuestro editor Sublime Text 3(debe ser el 3), aunque existen dos formas es muy bueno aprender a manejar Package Control, porque es desde ahí donde podemos instalar muchos snippets y plugins.&lt;/p&gt;
+
+&lt;p&gt;Pasos:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;cmd(⌘) + shift(⇧) + p : Para acceder al Package Control&lt;/li&gt;
+  &lt;li&gt;Empezar a escribir “Install Package”, dar enter&lt;/li&gt;
+  &lt;li&gt;Escribir Seti_UI, dar enter&lt;/li&gt;
+  &lt;li&gt;Pegar lo siguiente en las preferencias de usuario(Preferences – Settings User):&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;“theme”: “Seti.sublime-theme”,&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt; “color_scheme”: “Packages/Seti_UI/Scheme/Seti.tmTheme”,&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Y listo, mira un video paso a paso &lt;a href=&quot;https://www.youtube.com/watch?v=XhmD6_9wq6U&quot;&gt;aquí&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 11 Aug 2015 11:49:55 -0500</pubDate>
+        <link>http://localhost:4000/blog/sublime-seti-ui</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/sublime-seti-ui</guid>
+        
+        
+        <category>coding</category>
+        
+      </item>
+    
+  </channel>
+</rss>

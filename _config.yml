@@ -1,34 +1,50 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+title: Ana María Sosa | Web Citizen
+email: anamariasosam@gmail.com
+description: Aprendí que todo lo que me enseñan lo debo compartir y no hay mejor forma que un blog para hacerlo.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://anamariasosa.com" # the base hostname & protocol for your site
+twitter_username: anamariasosam
+github_username:  anamariasosa
+avatar: http://anamariasosa.com/img/blog.png
+paginate: 3
+locale: en_us
+nav_list:
+  Home : ['Inicio', '/', 'fa-home']
+  About : ['About', '/about', 'fa-anchor']
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+single_footer: '<p> Made with <i class="fa fa-heart"></i> | Hosted by Github. | 2017 © </p>'
 
-# Build settings
+permalink: /:title
 markdown: kramdown
-theme: minima
 gems:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-mentions
+include: ["_pages"]
 exclude:
   - Gemfile
   - Gemfile.lock
+
+jekyll-mentions: https://twitter.com
+
+sass:
+  style: compressed
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      author_name: Ana Sosa
+      layout: "post"
+      comments: true
+      category: "coding"
+      author_url: "https://anamariasosa.me"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"

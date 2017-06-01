@@ -20,3 +20,7 @@ Desde ese momento me dieron ganas de estudiar Ingeniería de Sistemas, y es así
 Actualmente soy organizadora de una comunidad de mujeres en Medellín que les gusta o les interesa aprender programación, llamada @pionerasdev, me encanta enseñar, el plan de mi mamá de revisar a las muñecas en vez de enseñarles no funcionó como ella quiso jaja.
 
 Así fue como llegué a este mundo de la tecnología, soy una medio metro llena de pequitas con muchas ganas de aprender y compartir, porque siempre estaré muy agradecida con todas las personas que aportan a mi crecimiento.
+
+En todas mi redes sociales estoy como @anamariasosam pero aquí te dejo mi [twitter](https://twitter.com/anamariasosam) para que estés pendiente de mis últimos posts.
+
+¡Nos vemos!

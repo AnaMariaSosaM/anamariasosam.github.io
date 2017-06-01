@@ -1,6 +1,6 @@
 ---
 title:  		"Usar Livereload en Rails"
-permalink: 	blog/rails-livereload
+permalink: 	rails-livereload
 categories: "coding"
 ---
 

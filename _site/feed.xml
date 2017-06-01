@@ -3,10 +3,10 @@
   <channel>
     <title>Ana María Sosa | Web Citizen</title>
     <description>Aprendí que todo lo que me enseñan lo debo compartir y no hay mejor forma que un blog para hacerlo.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 31 May 2017 21:07:28 -0500</pubDate>
-    <lastBuildDate>Wed, 31 May 2017 21:07:28 -0500</lastBuildDate>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 01 Jun 2017 17:46:34 -0500</pubDate>
+    <lastBuildDate>Thu, 01 Jun 2017 17:46:34 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;Disfruté muchísimo mi época escolar, hice miles de cosas, fui personera(no pude cumplir con la piscina), me encantaba jugar Ultimate, en una ocasión nos invitaron a un torneo en Bogotá, la entrenadora(Adri) no estaba muy de acuerdo, pero yo hice todo lo posible para ir, en serio, todo. Conseguí la estadía, la buseta, logré convencer a las chicas del equipo para ir a Bogotá, hablaba con sus papás y lograba convencerlos, la noche anterior a viajar una chica se quitó del viaje y el viaje se canceló. Al otro día todas fuimos al colegio con una super aburridas, pero adivinen que?, no habíamos contado con una que iba en avión!!, nos dio tanta emoción!, buscamos a Adri(la entrenadora) por todas partes, para contarle que el viaje seguía en pie, mientras también llamabamos a la buseta, al hotel, al encargado del evento de que sí ibamos a ir&lt;/p&gt;
 </description>
         <pubDate>Wed, 31 May 2017 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/tu-tambien-puedes</link>
-        <guid isPermaLink="true">http://localhost:4000/tu-tambien-puedes</guid>
+        <link>http://0.0.0.0:4000/tu-tambien-puedes</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/tu-tambien-puedes</guid>
         
         
         <category>motivation</category>
@@ -69,8 +69,8 @@ Sigue los pasos que te dieron, son similares a los que anteriormente te expliqu�
 &lt;p&gt;Puedes ver con más profundidad cómo usar los comandos de git en este &lt;a href=&quot;https://try.github.io/levels/1/challenges/1&quot;&gt;tutorial&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 25 Nov 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/github</link>
-        <guid isPermaLink="true">http://localhost:4000/github</guid>
+        <link>http://0.0.0.0:4000/github</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/github</guid>
         
         
         <category>coding</category>
@@ -101,8 +101,8 @@ Sigue los pasos que te dieron, son similares a los que anteriormente te expliqu�
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 27 Oct 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/meetup</link>
-        <guid isPermaLink="true">http://localhost:4000/meetup</guid>
+        <link>http://0.0.0.0:4000/meetup</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/meetup</guid>
         
         
         <category>coding</category>
@@ -158,8 +158,8 @@ Sigue los pasos que te dieron, son similares a los que anteriormente te expliqu�
 &lt;/table&gt;
 </description>
         <pubDate>Sun, 13 Sep 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/terminal</link>
-        <guid isPermaLink="true">http://localhost:4000/terminal</guid>
+        <link>http://0.0.0.0:4000/terminal</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/terminal</guid>
         
         
         <category>coding</category>
@@ -191,8 +191,8 @@ Sigue los pasos que te dieron, son similares a los que anteriormente te expliqu�
 &lt;p&gt;&lt;img src=&quot;/assets/img/livereload.gif&quot; alt=&quot;livereload rails guard anamariasosa&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Sep 2015 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/rails-livereload</link>
-        <guid isPermaLink="true">http://localhost:4000/rails-livereload</guid>
+        <link>http://0.0.0.0:4000/rails-livereload</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/rails-livereload</guid>
         
         
         <category>coding</category>

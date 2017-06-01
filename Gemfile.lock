@@ -10,6 +10,10 @@ GEM
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
     colorator (1.1.0)
+    em-websocket (0.5.1)
+      eventmachine (>= 0.12.9)
+      http_parser.rb (~> 0.6.0)
+    eventmachine (1.2.3)
     faraday (0.11.0)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.17)
@@ -17,6 +21,7 @@ GEM
     html-pipeline (2.5.0)
       activesupport (>= 2)
       nokogiri (>= 1.4)
+    http_parser.rb (0.6.0)
     i18n (0.7.0)
     jekyll (3.3.1)
       addressable (~> 2.4)
@@ -33,6 +38,9 @@ GEM
       jekyll (~> 3.3)
     jekyll-gist (1.4.0)
       octokit (~> 4.2)
+    jekyll-livereload (0.2.2)
+      em-websocket (~> 0.5)
+      jekyll (~> 3.0)
     jekyll-mentions (1.2.0)
       activesupport (~> 4.0)
       html-pipeline (~> 2.3)
@@ -79,6 +87,7 @@ DEPENDENCIES
   jekyll (= 3.3.1)
   jekyll-feed (~> 0.6)
   jekyll-gist
+  jekyll-livereload
   jekyll-mentions
   jekyll-paginate
 
@@ -86,4 +95,4 @@ RUBY VERSION
    ruby 2.4.0p0
 
 BUNDLED WITH
-   1.13.7
+   1.14.6

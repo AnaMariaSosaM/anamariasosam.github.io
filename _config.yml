@@ -30,6 +30,8 @@ exclude:
 
 jekyll-mentions: https://twitter.com
 
+livereload: true
+
 sass:
   style: compressed
 

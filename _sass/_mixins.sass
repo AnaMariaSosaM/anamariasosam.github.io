@@ -1,6 +1,10 @@
 @mixin breakpoint($size)
 
-    @if $size == sm
+    @if $size == xs
+        @media (max-width: 768px)
+            @content
+
+    @else if $size == sm
         @media (min-width: 768px)
             @content
 
@@ -51,4 +55,3 @@
 
     &:-ms-input-placeholder
         @content
-

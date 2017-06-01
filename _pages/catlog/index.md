@@ -1,7 +1,6 @@
 ---
 title: Catlog
 permalink: /catlog/
-layout: default
+layout: home-alt
+feature_image: feature-laptop
 ---
-
-Sentimos las molestias causadas en el momento estamos realizando una actualización que te encantará

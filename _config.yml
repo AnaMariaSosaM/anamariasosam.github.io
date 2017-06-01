@@ -11,6 +11,8 @@ locale: en_us
 nav_list:
   Home : ['Inicio', '/', 'fa-home']
   About : ['About', '/about', 'fa-anchor']
+  Coding : ['Coding', '/category/coding/', 'fa-code']
+  Css : ['Css', '/category/css/', 'fa-css3']
 
 single_footer: '<p> Made with <i class="fa fa-heart"></i> | Hosted by Github. | 2017 © </p>'
 
@@ -42,10 +44,7 @@ defaults:
       feature_image: recommend-woods
       author_url: "https://anamariasosa.me"
       author_name: "Ana Sosa"
-      categories: "coding"
       read_time: 3
-      title: ""
-      permalink: ""
   -
     scope:
       path: "" # an empty string here means all files in the project

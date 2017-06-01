@@ -5,9 +5,22 @@
     <description>Aprendí que todo lo que me enseñan lo debo compartir y no hay mejor forma que un blog para hacerlo.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 May 2017 10:18:39 -0500</pubDate>
-    <lastBuildDate>Fri, 26 May 2017 10:18:39 -0500</lastBuildDate>
+    <pubDate>Wed, 31 May 2017 20:51:07 -0500</pubDate>
+    <lastBuildDate>Wed, 31 May 2017 20:51:07 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Tu también puedes</title>
+        <description>&lt;p&gt;Disfruté muchísimo mi época escolar, hice miles de cosas, fui personera(no pude cumplir con la piscina), me encantaba jugar Ultimate, en una ocasión nos invitaron a un torneo en Bogotá, la entrenadora(Adri) no estaba muy de acuerdo, pero yo hice todo lo posible para ir, en serio, todo. Conseguí la estadía, la buseta, logré convencer a las chicas del equipo para ir a Bogotá, hablaba con sus papás y lograba convencerlos, la noche anterior a viajar una chica se quitó del viaje y el viaje se canceló. Al otro día todas fuimos al colegio con una super aburridas, pero adivinen que?, no habíamos contado con una que iba en avión!!, nos dio tanta emoción!, buscamos a Adri(la entrenadora) por todas partes, para contarle que el viaje seguía en pie, mientras también llamabamos a la buseta, al hotel, al encargado del evento de que sí ibamos a ir&lt;/p&gt;
+</description>
+        <pubDate>Wed, 31 May 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/tu-tambien-puedes</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/tu-tambien-puedes</guid>
+        
+        
+        <category>motivation</category>
+        
+      </item>
     
       <item>
         <title>GitHub == Red Social</title>

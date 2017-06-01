@@ -1,6 +1,7 @@
 ---
 title:  		"Usar Livereload en Rails"
 permalink: 	blog/rails-livereload
+categories: "coding"
 ---
 
 Si eres de los míos, que estás cansado de refrescar la pantalla cada vez que realizas un cambio te sugiero seguir estos pasos para que utilices livereload en tu proyecto de rails.

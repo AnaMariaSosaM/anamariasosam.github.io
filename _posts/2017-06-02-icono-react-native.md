@@ -5,7 +5,7 @@ category:    front-end
 feature_image: recommend-native-icon
 ---
 
-Con solo 2 pasos aprenderas a crear el ícono para tu aplicación hecha en react native.
+Con solo 7 pasos aprenderás a crear el ícono para tu aplicación hecha en react native.
 
 Pasos:
 1. En la terminal `npm install -g yo generator-rn-toolbox`

@@ -10,9 +10,8 @@ paginate: 3
 locale: en_us
 nav_list:
   Home : ['Inicio', '/', 'fa-home']
-  About : ['About', '/about', 'fa-anchor']
+  About : ['About', '/about', 'fa-diamond']
   Coding : ['Coding', '/category/coding/', 'fa-code']
-  Css : ['Css', '/category/css/', 'fa-css3']
 
 single_footer: '<p> Made with <i class="fa fa-heart"></i> | Hosted by Github. | 2017 © </p>'
 
@@ -44,7 +43,7 @@ defaults:
       layout: "post"
       comments: true
       feature_image: recommend-woods
-      author_url: "https://anamariasosa.me"
+      author_url: "http://anamariasosa.me"
       author_name: "Ana Sosa"
       read_time: 3
   -

@@ -6,12 +6,14 @@ url: "http://anamariasosa.com" # the base hostname & protocol for your site
 twitter_username: anamariasosam
 github_username:  anamariasosa
 avatar: http://anamariasosa.com/img/blog.png
-paginate: 3
+paginate: 2
 locale: en_us
 nav_list:
-  Home : ['Inicio', '/', 'fa-home']
-  About : ['About', '/about', 'fa-diamond']
-  Coding : ['Coding', '/category/coding/', 'fa-code']
+  Home : ['Home', '/', 'fa-home']
+  About : ['About', '/about', 'fa-heart']
+  Motivation : ['Dev Motivation', '/category/motivation/', 'fa-star']
+  Front End : ['Front End', '/category/front-end/', 'fa-code']
+  Back End : ['Back End', '/category/back-end/', 'fa-diamond']
 
 single_footer: '<p> Made with <i class="fa fa-heart"></i> | Hosted by Github. | 2017 © </p>'
 

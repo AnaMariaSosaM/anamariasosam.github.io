@@ -13,7 +13,7 @@ Cuando estaba peque mi mamá me veía jugando con las muñecas a la escuelita y 
 Cuando estaba cursando grado décimo mi mejor amiga del colegio me "convenció"(casi que me obligó) para que nos escribiéramos en un nuevo programa llamado [Coderise](http://coderise.org/) que tiene como objetivo enseñarle a los niños de los colegios a programar, desde ahí mi burbuja estalló, ya no quería ser médica, ya quería ser desarrolladora de software.
 En las primeras clases estaba muy asustada, porque había chicos muy tesos, pero al final me di cuenta que yo también podía y terminé super feliz al darme que cuenta que **yo podía crear desde mi casa, aplicaciones para todo el planeta.**
 
-Desde ese momento me dieron ganas de estudiar Ingeniería de Sistemas, y es así como en el 2014 me uní a la Universidad de Medellín. Ser de las poquitas mujeres en un salón de clases es lo mejor, amo a mis amigos, ellos me valoran y me apoyan en todo, lo mejor de todo es cuando me llevan el morral así se morado jaja.
+Desde ese momento me dieron ganas de estudiar Ingeniería de Sistemas, y es así como en el 2014 me uní a la Universidad de Medellín. Ser de las poquitas mujeres en un salón de clases es lo mejor, amo a mis amigos, ellos me valoran y me apoyan en todo, lo mejor de todo es cuando me llevan el morral así sea morado, literal me quitan un peso de encima jaja.
 
 ## Amo enseñar
 

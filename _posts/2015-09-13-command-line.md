@@ -1,7 +1,7 @@
 ---
 title:  		"La terminal debe ser tu amiga"
 permalink: 	terminal
-categories: "coding"
+categories: "motivation"
 feature_image: recommend-terminal
 ---
 Antes los computadores no tenían interfaces gráficas con botones, ventanas y menús. Así que las personas manejaban sus computadores digitando los comandos y presionando enter.

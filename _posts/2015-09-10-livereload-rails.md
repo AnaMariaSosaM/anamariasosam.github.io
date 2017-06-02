@@ -1,7 +1,7 @@
 ---
 title:  		"Usar Livereload en Rails"
 permalink: 	rails-livereload
-categories: "coding"
+categories: back-end
 read_time: 2
 feature_image: recommend-ruby
 ---
@@ -17,4 +17,4 @@ Pasos:
 1. Reinicia el servidor de rails y en otra pestaña escribe `guard`
 1. Activa livereload haciendo clic sobre el icono y ¡listo!
 
-![livereload rails guard anamariasosa](/assets/img/livereload.gif)
+![livereload rails guard anamariasosa](/assets/img/posts/livereload.gif)

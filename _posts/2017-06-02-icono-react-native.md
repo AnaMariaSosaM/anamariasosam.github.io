@@ -1,5 +1,5 @@
 ---
-title:  		"Ícono en React Native"
+title:  		"Crear un ícono para tu App de React Native"
 permalink: 	 icono-react-native
 category:    front-end
 feature_image: recommend-native-icon

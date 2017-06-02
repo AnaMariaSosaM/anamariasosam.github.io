@@ -21,11 +21,13 @@ layout: default
 
             {{ content }}
 
+            {% include disqus.html disqus_identifier=page.disqus_identifier %}
+
         </div><!-- main-content/col -->
 
         <div class="col-xs-12 col-md-3 col-md-offset-1 single-content-sidebar-area">
 
-            <img src='{{ "img/" | append: page.author_avatar | prepend: site.baseurl }}.jpg' class="user-icon " alt="user-image">
+            <img src='/assets/img/author.jpg' class="user-icon " alt="user-image">
             <div class="meta">
 
                 <div class="sidebar-info">

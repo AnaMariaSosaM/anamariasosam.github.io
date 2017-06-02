@@ -1,7 +1,23 @@
 ---
-title:  		"Logo en React Native"
+title:  		"Ícono en React Native"
 permalink: 	 icono-react-native
 category:    front-end
+feature_image: recommend-native-icon
 ---
 
-Disfruté muchísimo mi época escolar, hice miles de cosas, fui personera(no pude cumplir con la piscina), me encantaba jugar Ultimate, en una ocasión nos invitaron a un torneo en Bogotá, la entrenadora(Adri) no estaba muy de acuerdo, pero yo hice todo lo posible para ir, en serio, todo. Conseguí la estadía, la buseta, logré convencer a las chicas del equipo para ir a Bogotá, hablaba con sus papás y lograba convencerlos, la noche anterior a viajar una chica se quitó del viaje y el viaje se canceló. Al otro día todas fuimos al colegio con una super aburridas, pero adivinen que?, no habíamos contado con una que iba en avión!!, nos dio tanta emoción!, buscamos a Adri(la entrenadora) por todas partes, para contarle que el viaje seguía en pie, al mismo tiempo llamabamos a la buseta, al hotel, al encargado del evento de que sí ibamos a ir.
+Con solo 2 pasos aprenderas a crear el ícono para tu aplicación hecha en react native.
+
+Pasos:
+1. En la terminal `npm install -g yo generator-rn-toolbox`
+2. Instalar ImageMagick, [clic aquí para descargar](http://www.imagemagick.org/script/download.php), si tienes mac lo puedes instalar via Brew, en la terminal escribe: `brew install imagemagick`
+3. Busca el ícono que quieres, el tamaño puede ser de 200x200px, puedes usar este de abajo:
+<br>
+![reactnative icon generator anamariasosa](/assets/img/posts/icon.png)
+4. Creas una carpeta src en el root y lo guardas ahí
+5. En la terminal `yo rn-toolbox:assets --icon src/icon.png`
+6. Cuando te pregunten **Name of your react-native project** presionas enter
+7. Luego cuando diga **Overwrite ios/nombreDelProyecto/Images.xcassets/AppIcon.appiconset/Contents.json?** escribes: `Y`
+
+¡Listo, ahora tu aplicación de iOS y android tienen el ícono!
+
+![reactnative icon generator anamariasosa](/assets/img/posts/iconReactNative.gif)

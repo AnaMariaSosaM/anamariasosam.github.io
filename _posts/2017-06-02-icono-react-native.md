@@ -3,6 +3,8 @@ title:  		"Crear un ícono para tu App de React Native"
 permalink: 	 icono-react-native
 category:    front-end
 feature_image: recommend-native-icon
+description: Aprende a añadirle el ícono en solo 7 pasos a tu aplicación de iOs y Android hecha con React Native.
+tags: "react native, aplicación, icono, android, ios"
 ---
 
 Con solo 7 pasos aprenderás a crear el ícono para tu aplicación hecha en react native.

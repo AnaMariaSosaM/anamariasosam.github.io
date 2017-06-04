@@ -3,6 +3,8 @@ title:  		"La terminal debe ser tu amiga"
 permalink: 	terminal
 categories: "motivation"
 feature_image: recommend-terminal
+description: ¿La terminal? si, esa pantalla negra con letras blancas, se convertirá en tu mejor amiga
+tags: "comandos, terminal, aprender, desarrollador"
 ---
 Antes los computadores no tenían interfaces gráficas con botones, ventanas y menús. Así que las personas manejaban sus computadores digitando los comandos y presionando enter.
 

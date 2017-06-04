@@ -4,6 +4,8 @@ permalink: 	 ruby-on-rails
 category:    back-end
 feature_image: recommend-ror-scaffold
 layout: post-sidebar
+description: "¿Quieres saber por qué me gusta tanto Ruby on Rails?"
+tags:  "ruby on rails, rails girls medellin, ruby, rails"
 ---
 
 Hace dos años asistí el primer Rails Girls en Medellín, aunque ya había estado aprendiendo un poquito sobre este framework de Ruby, tuve la oportunidad de aprender mucho más.

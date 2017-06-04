@@ -3,6 +3,7 @@ title: Bienvenid@s a mi nuevo blog
 permalink: /about/
 feature_image: feature-about
 layout: page
+tags: "coderise, programar, aprender, compartir, médica"
 ---
 Hace muchos años empecé mi primer blog y era full rosa, pero ahora he descubierto muchos colores y por eso he decidido rediseñarlo y este es el resultado!.
 

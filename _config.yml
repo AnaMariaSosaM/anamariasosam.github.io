@@ -1,11 +1,11 @@
 title: Ana María Sosa | Web Citizen
 email: anamariasosam@gmail.com
 description: Aprendí que todo lo que me enseñan lo debo compartir y no hay mejor forma que un blog para hacerlo.
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://anamariasosa.me" # the base hostname & protocol for your site
 twitter_username: anamariasosam
 github_username:  anamariasosa
-avatar: http://blog.anamariasosa.me/assets/img/author.jpg
+avatar: http://anamariasosa.me/assets/img/author.jpg
 paginate: 2
 locale: en_us
 nav_list:

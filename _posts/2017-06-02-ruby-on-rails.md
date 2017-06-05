@@ -4,6 +4,7 @@ permalink: 	 ruby-on-rails
 category:    back-end
 feature_image: recommend-ror-scaffold
 layout: post-sidebar
+read_time: 4
 description: "¿Quieres saber por qué me gusta tanto Ruby on Rails? Entérate del evento que se realiza en Medellín y algunos recursos para aprender RoR"
 tags:  "ruby on rails, rails girls medellin, ruby, rails"
 ---

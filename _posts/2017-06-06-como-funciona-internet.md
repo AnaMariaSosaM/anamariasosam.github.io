@@ -5,11 +5,11 @@ category:    front-end
 feature_image: recommend-internet
 read_time: 8
 layout: post-sidebar
-description: "¿Alguna vez de has preguntado, que pasa desde que mandas un mensaje, hasta que el chulito queda en azul?"
+description: "¿Alguna vez te has preguntado, qué pasa desde que mandas un mensaje, hasta que el chulito queda en azul?"
 tags:  "internet, ip, protocolos, paquetes"
 ---
 
-Internet nos sirve en nuestro día a día, para conocer el clima, las películas en cartelera, comunicarnos con nuestros amigos, hacer reservaciones en hoteles, comprar tiquetes aéreos, en fin, miles de cosas que quizá hasta nuestro tíos y abuelos han aprendido ha hacer poco a poco, porque familia colombiana que se respete tiene un grupo en WhatsApp donde siempre hay una tía que manda imágenes de Piolín u oraciones.
+Internet nos sirve en nuestro día a día para conocer el clima, las películas en cartelera, comunicarnos con nuestros amigos, hacer reservaciones en hoteles, comprar tiquetes aéreos, en fin, miles de cosas que quizá hasta nuestro tíos y abuelos han aprendido ha hacer poco a poco, porque familia colombiana que se respete tiene un grupo en WhatsApp donde siempre hay una tía que manda imágenes de Piolín u oraciones.
 
 ## ¿Alguna vez de has preguntado, que pasa desde que mandas un mensaje, hasta que el chulito queda en azul?
 <br>

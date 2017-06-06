@@ -1,11 +1,12 @@
 ---
 title:  		"Usar Livereload en Rails"
-permalink: 	rails-livereload
+permalink: 	blog/rails-livereload
 categories: back-end
 read_time: 2
 feature_image: recommend-ruby
 description: Si estás cansado de refrescar el navegador cada que haces un proyecto en rails, usa livereload
 tags: "ruby on rails, livereload, refrescar"
+layout: post-sidebar
 ---
 
 Si eres de los míos, que estás cansado de refrescar la pantalla cada vez que realizas un cambio te sugiero seguir estos pasos para que utilices livereload en tu proyecto de rails.

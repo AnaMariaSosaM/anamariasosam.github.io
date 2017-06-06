@@ -24,4 +24,4 @@ Así fue como llegué a este mundo de la tecnología, soy una medio metro llena 
 
 En todas mi redes sociales estoy como @anamariasosam pero aquí te dejo mi [twitter](https://twitter.com/anamariasosam) para que estés pendiente de mis últimos posts.
 
-¡Nos vemos!
+¡Nos vemos! y espero que te gusten mis publicaciones, [haz clic aquí si quieres verlas](http://anamariasosa.me)

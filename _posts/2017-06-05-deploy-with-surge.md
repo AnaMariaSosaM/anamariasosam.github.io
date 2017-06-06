@@ -1,10 +1,10 @@
 ---
 title:  		"Despliega páginas web con Surge.sh"
-permalink: 	 deploy-con-surge
+permalink: 	 blog/deploy-con-surge
 category:    front-end
 feature_image: recommend-surge
 read_time: 5
-description: "Aprende a publicar tu página web con Surge, es gratis."
+description: "Surge nos permite desplegar nuestra página web, en solo tres pasos y lo mejor, sin salirnos de la terminal."
 tags:  "html, css, js, deploy, página web"
 ---
 
@@ -32,4 +32,4 @@ Así lo hice yo con mi proyecto de React js:
 Eso es todo!, ahora puedo ingresar a mi nueva página a [devgame.surge.sh](http://devgame.surge.sh)
 
 
-Si quieres más información puedes visitar su página [surge.sh](https://surge.sh/) o me puedes preguntar a mí.
+También puedes configurar tu propio dominio, puedes ver más información puedes visitar su página [surge.sh](https://surge.sh/) o me puedes preguntar a mí.

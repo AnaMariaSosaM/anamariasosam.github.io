@@ -17,7 +17,6 @@ nav_list:
 
 single_footer: '<p> Made with <i class="fa fa-heart"></i> | Hosted by Github. | 2017 © </p>'
 
-permalink: /:title
 markdown: kramdown
 gems:
   - jekyll-feed
@@ -45,7 +44,7 @@ defaults:
       layout: "post"
       comments: true
       feature_image: recommend-woods
-      author_url: "http://anamariasosa.me"
+      author_url: "http://anamariasosa.me/about"
       author_name: "Ana Sosa"
       read_time: 3
   -

@@ -1,6 +1,6 @@
 ---
 title:  		"¿Por qué Rails?"
-permalink: 	 ruby-on-rails
+permalink: 	 blog/ruby-on-rails
 category:    back-end
 feature_image: recommend-ror-scaffold
 layout: post-sidebar

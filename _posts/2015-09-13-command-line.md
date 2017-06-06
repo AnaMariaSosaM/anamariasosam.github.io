@@ -1,6 +1,6 @@
 ---
 title:  		"La terminal debe ser tu amiga"
-permalink: 	terminal
+permalink: 	blog/terminal
 categories: "motivation"
 feature_image: recommend-terminal
 description: ¿La terminal? si, esa pantalla negra con letras blancas, se convertirá en tu mejor amiga

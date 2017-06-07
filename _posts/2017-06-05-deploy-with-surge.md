@@ -15,15 +15,15 @@ Desde nuestra terminal con npm lo instalamos de forma global para que desde cual
 
 ` npm install --global surge`
 
-Luego desde la terminal, buscamos nuestro proyecto que tiene html, css y js. Si lo quieres hacer desde una aplicación hecha con `create-reac-app` recuerda que primero debes, correr el build `npm run build`
+Luego desde la terminal, buscamos nuestro proyecto que tiene html, css y js. Si lo quieres hacer desde una aplicación hecha con `create-react-app` recuerda que primero debes, correr el build `npm run build`
 
 Luego que ya estés ubicado en la terminal en el proyecto que quieres publicar solo debes correr
 
 `surge`
 
-La primera vez te pedirá un email y contraseña, recuerda que todo esto es desde la terminal, luego si deseas puedes cambiarle el domonio, pero **no olvides** que debes dejar .surge.sh, es decir, solo puedes personalizar lo que hay antes de eso.
+La primera vez te pedirá un email y contraseña, recuerda que todo esto es desde la terminal, luego si deseas puedes cambiarle el dominio, pero **no olvides** que debes dejar .surge.sh, es decir, solo puedes personalizar lo que hay antes de eso.
 
-Por ejemplo en mi caso, creé un mini juego en react así que público mi carpeta build y luego cuando en el dominio yo decidí llamarlo *devgame* así que escribo *devgame.surge.sh*
+Por ejemplo en mi caso, creé un mini juego en react así que publico mi carpeta build y luego cuando en el dominio yo decidí llamarlo *devgame* así que escribo *devgame.surge.sh*
 
 Así lo hice yo con mi proyecto de React js:
 

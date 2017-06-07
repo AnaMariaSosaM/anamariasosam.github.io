@@ -17,9 +17,7 @@ Cuando estás conectado a Internet tu computador/celular/tablet, tiene un códig
 
 *Luego de que tu computador está conectado a Internet y tiene una IP única. ¿Cómo haces para mandarle un mensaje a una amiga?*
 
-Digamos que por ejemplo tu tienes asignada la IP 1.2.3.4 y el tu amiga tiene la IP 5.6.7.8. para mandarle una "Hamburguesas a 10 mil en el [Burger Master Medellín](https://www.facebook.com/burgermasterco/)!!" a tu amiga, ese mensaje debe ser convertido a señales electrónicas, luego enviado por internet, y por último se vuelve a convertir en el texto normal, es decir: "Hamburguesas a 10 mil en el [Burger Master Medellín](https://www.facebook.com/burgermasterco/)!!".
-
-¿Cómo es esto posible?
+Digamos que por ejemplo tu tienes asignada la IP 1.2.3.4 y el equipo de tu amiga tiene la IP 5.6.7.8. para mandarle una "Holi" a tu amiga, ese mensaje debe ser convertido a señales electrónicas, luego enviado por internet, y por último se vuelve a convertir en el texto normal, es decir: "Holi".
 
 Esto es posible gracias al protocolo de conexión de redes TCP/IP. Un protocolo es un conjunto de reglas a las que se tiene que atener todas la compañías y productos de software con él fin de que todos sus productos sean compatibles entre ellos. Este protocolo está dividido por capas.
 
@@ -39,8 +37,8 @@ Así que para mandar el mensaje desde tu computador con la IP 1.2.3.4 a la de tu
 
 **7.** A medida que los paquetes van hacia arriba, todos los datos de enrutamiento que la pila del equipo emisor(el tuyo) añadió, como dirección IP y número de puerto, se quitan de los paquetes.
 
-**8.** Cuando los datos llegan a la capa superior, los paquetes han sido re-ensamblados en su forma original, "Hamburguesas a 10 mil en el [Burger Master Medellín](https://www.facebook.com/burgermasterco/)!!"
+**8.** Cuando los datos llegan a la capa superior, los paquetes han sido re-ensamblados en su forma original, "Holi"
 
-Y es así como tu y tu amiga se pudieron comunicar gracias a Internet y podrán ir a comer Hamburguesas a 10 mil en el [Burger Master Medellín](https://www.facebook.com/burgermasterco/)!!
+Y es así como tu y tu amiga se pudieron comunicar gracias a Internet :D
 
 Por último, escribe en tu navegador la IP 31.13.73.36, ¿te llevó a Facebook? Así es, a cada nombre de dominio(facebook.com) corresponde una dirección IP, pero puede haber varios nombres que compartan una dirección, pero de esto hablaremos en otra ocasión con más detalle, espero que te haya gustado mi artículo!

@@ -4,7 +4,7 @@ permalink: 	 blog/deploy-con-surge
 category:    front-end
 feature_image: recommend-surge
 read_time: 5
-description: "Surge nos permite desplegar nuestra página web, en solo tres pasos y lo mejor, sin salirnos de la terminal."
+description: "Surge nos permite desplegar nuestra página web, en solo tres pasos y lo mejor, sin salirnos de la terminal. Aquí te enseñaré como hacerlo"
 tags:  "html, css, js, deploy, página web"
 ---
 

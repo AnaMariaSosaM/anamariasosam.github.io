@@ -1,11 +1,11 @@
 ---
-title:  		"¿Cómo funciona el internet?"
+title:  		"¿Sabes cómo funciona el internet?"
 permalink: 	 blog/como-funciona-internet
-category:    front-end
+category:    motivation
 feature_image: recommend-internet
 read_time: 8
 layout: post-sidebar
-description: "¿Alguna vez te has preguntado, qué pasa desde que mandas un mensaje, hasta que el chulito queda en azul?"
+description: "Internet nos sirve en nuestro día a día para conocer el clima, las películas en cartelera pero, ¿te has preguntado cómo funciona el Internet?"
 tags:  "internet, ip, protocolos, paquetes"
 ---
 

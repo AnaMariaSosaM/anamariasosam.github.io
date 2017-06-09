@@ -75,7 +75,7 @@ end
 ```
 
 
-**Paso 8. Editar el archivo routes.rb:** Debemos añadir la ruta del callback
+**Paso 8. Editar el archivo routes.rb:** Debemos añadir el controllador omniauth_callbacks en la ruta que devise nos generó *devise_for :users*
 ```
 #/config/routes.rb
 devise_for :users, controllers: { omniauth_callbacks: "users/omniauth_callbacks" }
@@ -120,6 +120,8 @@ Añadimos en el archivo home.html.erb lo siguiente:
   </div>
 </div>
 ```
+
+Como puedes ver, ese html tiene algunas clases, [mira aquí](https://github.com/anamariasosam/omniauth_rails_example/blob/master/app/assets/stylesheets/pages.scss) los estilos que añadí en el archivo pages.scss
 
 En la terminal corre: `rails server` y visita http://localhost:3000/pages/home y listo!
 
